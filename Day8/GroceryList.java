@@ -21,9 +21,7 @@ public class GroceryList {
         System.out.println("Press 4 to check a specific item in your list");
         System.out.println("Press 5 to  clear your entire list");
 
-
         int i = 0;
-
 
         while (i != 6){
             System.out.println("Please enter your choice: ");
