@@ -56,6 +56,7 @@ public class GroceryList {
                 default -> System.out.println("Wrong number entered");
             }
         }
+        Sc.close();
 
     }
 
