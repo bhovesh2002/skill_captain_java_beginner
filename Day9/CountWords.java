@@ -38,6 +38,11 @@ public class CountWords {
 
         System.out.println(para);
 
+        scanner.close();
+
+        //i just checked my gmail and apprently all the code reviews went to spam so i didnt get any notifications and therefore didnt check them.
+        //i will try my best to reduce mistakes based on the reviews you have provided. THANK YOU!
+
     }
 
 }
