@@ -31,8 +31,9 @@ public class GroceryList {
         System.out.println("Press 6 to  exit");
 
         int i = 0;
+        int magicNumber = 6;
 
-        while (i != 6){
+        while (i != magicNumber){
             System.out.println("Please enter your choice: ");
             i = Sc.nextInt();
 
