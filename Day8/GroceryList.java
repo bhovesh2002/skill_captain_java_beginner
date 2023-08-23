@@ -28,6 +28,7 @@ public class GroceryList {
         System.out.println("Press 3 to print items in your list");
         System.out.println("Press 4 to check a specific item in your list");
         System.out.println("Press 5 to  clear your entire list");
+        System.out.println("Press 6 to  exit");
 
         int i = 0;
 
