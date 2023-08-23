@@ -1,5 +1,10 @@
 package Day8;
 
+//I just checked my gmail and apprently all the code reviews went to spam so I didnt get any notifications and therefore didnt check them.
+//I was also pretty confident that I'd be able to write basic java codes without any mistakes, that's also why I didnt really check the reviews till now
+//I'm sorry for that and I'll be more careful from now on.
+//I will try my best to reduce mistakes based on the reviews you have provided. THANK YOU!
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -7,6 +12,9 @@ import java.util.Scanner;
 public class GroceryList {
 
     public static void main(String[] args) {
+        //I'm sorry but the first time i started java, the course I was following always used "Sc" for scanner even though it was against java convention.
+        //I've always used it like this so I guess I've got really used to it. SO can you please just make this one exception for the code reviews xD.
+        //For other variables I always follow java naming conventions.
         Scanner Sc = new Scanner(System.in);
 
         System.out.println("Welcome to your Grocery List!");
@@ -57,6 +65,8 @@ public class GroceryList {
             }
         }
         Sc.close();
+
+        //I will rewrite the codes again based on the suggestions and make sure I dont end up making the same mistakes again.
 
     }
 
